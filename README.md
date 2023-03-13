@@ -1,37 +1,18 @@
-### Hi there!👋 I am Mehdi,
------
-I am an AI research scientist and a full-stack machine learning engineer. Currently working as a Priciple Research Scientist at (Workhuman)[https://www.workhuman.com]. 
+### Hi there! 👋, I am Mehdi,
+----
+I am an AI research scientist and a full-stack machine learning engineer. Currently working as a Priciple Research Scientist at <a href="https://www.workhuman.com">Workhuman</a>. 
 
 - I work on Machine Learning, Natural Language Processing (NLP) and end-to-end machine learning system design.
-- I like data visualization, creating interactive data viz and dashboards.
-- I have a newsletter <a href="https://mlnotes.substack.com/">MLnotes</a> (MLnotes)[https://mlnotes.substack.com/] and a data
+- I like data visualization and creating interactive data viz, dashboards and custom visualizations.
+- I have a newsletter <a href="https://mlnotes.substack.com/">MLnotes</a> that provide bite-size content about Careers in Machine Learning and AI, interviews tips, and industry use cases or applications for AI.
+- I have <a href="https://mallahyari.github.io/visualdecode/">Visdecode</a> website that write blogs covering a wide range of topics related to data visualization, from basic concepts to advanced techniques. I also explore how machine learning can be applied to data visualization, and share practical examples of how to use machine learning algorithms to gain insights from data.
+ 
+## Coding
 
-<br>
+- Python, Javascript, JavaEE
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+## Let's connect!
+<a href="https://www.linkedin.com/in/mehdiallahyari/"><img src="https://github.com/mallahyari/mallahyari/blob/main/linkedin-4-32.png" /></a>
+<a href="https://twitter.com/MehdiAllahyari"><img src="https://github.com/mallahyari/mallahyari/blob/main/twitter-4-32.png" /></a>
 
-<!--
-**mallahyari/mallahyari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
