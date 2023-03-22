@@ -9,7 +9,7 @@ I am an AI research scientist and a full-stack machine learning engineer. Curren
  
 ## Coding
 
-- Python, Javascript, JavaEE
+- Python, Javascript, JavaEE, SQL
 
 ## Let's connect!
 <a href="https://www.linkedin.com/in/mehdiallahyari/"><img src="https://github.com/mallahyari/mallahyari/blob/main/linkedin-4-32.png" /></a>
