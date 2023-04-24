@@ -1,6 +1,6 @@
 ### Hi there! 👋, I am Mehdi,
 ----
-I am an AI research scientist and a full-stack machine learning engineer. Currently working as a Priciple Research Scientist at <a href="https://www.workhuman.com">Workhuman</a>. 
+I am an AI research scientist and a full-stack machine learning engineer. Currently working as a Staff Machine Learning Enginner at <a href="https://underdogfantasy.com/">Underdog Sports</a>. 
 
 - I work on Machine Learning, Natural Language Processing (NLP) and end-to-end machine learning system design.
 - I like data visualization and creating interactive data viz, dashboards and custom visualizations.
