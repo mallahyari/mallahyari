@@ -1,6 +1,6 @@
 ### Hi there! 👋, I am Mehdi,
 ----
-I am an AI research scientist and a full-stack machine learning engineer. Currently working as a Staff Machine Learning Enginner at <a href="https://underdogfantasy.com/">Underdog Sports</a>. 
+I am an AI research scientist | Full-stack software engineer | Co-founder of <a href="https://www.getcastly.com/">Castly</a>. I help companies and startups operationalize (build and deploy) LLM applications.
 
 - I work on Machine Learning, Natural Language Processing (NLP) and end-to-end machine learning system design.
 - I like data visualization and creating interactive data viz, dashboards and custom visualizations.
