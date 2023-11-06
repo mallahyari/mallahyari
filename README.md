@@ -12,7 +12,7 @@ I am an AI research scientist | Full-stack software engineer | Co-founder of <a 
 <img src="https://public-files.gumroad.com/x2au2qvdj6ge0i1dns2ru4o0umbo" width="200" />
 
 - <a href="https://angelinamagr.gumroad.com/l/MLinterview-practice-questions">Machine Learning Interview - Practice Questions from Experts</a>
-~[](https://public-files.gumroad.com/3qq1sh241mqphbnj3ph054ealsjv)
+  <img src="https://public-files.gumroad.com/3qq1sh241mqphbnj3ph054ealsjv" width="200" />
  
 ## Coding
 
