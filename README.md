@@ -9,7 +9,7 @@ I am an AI research scientist | Full-stack software engineer | Co-founder of <a 
 
 ## My Books
 - <a href="https://angelinamagr.gumroad.com/l/practical-approach-to-RAG-systems"> A Practical Approach to Retrieval Augemented Generation (RAG) Systems </a>
-![](https://public-files.gumroad.com/x2au2qvdj6ge0i1dns2ru4o0umbo)
+<img src="https://public-files.gumroad.com/x2au2qvdj6ge0i1dns2ru4o0umbo" width="200" />
 
 - <a href="https://angelinamagr.gumroad.com/l/MLinterview-practice-questions">Machine Learning Interview - Practice Questions from Experts</a>
 ~[](https://public-files.gumroad.com/3qq1sh241mqphbnj3ph054ealsjv)
