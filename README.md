@@ -6,6 +6,13 @@ I am an AI research scientist | Full-stack software engineer | Co-founder of <a 
 - I like data visualization and creating interactive data viz, dashboards and custom visualizations.
 - I have a newsletter <a href="https://mlnotes.substack.com/">MLnotes</a> that provide bite-size content about Careers in Machine Learning and AI, interviews tips, and industry use cases or applications for AI.
 - I have <a href="https://mallahyari.github.io/visualdecode/">Visdecode</a> website that write blogs covering a wide range of topics related to data visualization, from basic concepts to advanced techniques. I also explore how machine learning can be applied to data visualization, and share practical examples of how to use machine learning algorithms to gain insights from data.
+
+## My Books
+- <a href="https://angelinamagr.gumroad.com/l/practical-approach-to-RAG-systems"> A Practical Approach to Retrieval Augemented Generation (RAG) Systems </a>
+![](https://public-files.gumroad.com/x2au2qvdj6ge0i1dns2ru4o0umbo)
+
+- <a href="https://angelinamagr.gumroad.com/l/MLinterview-practice-questions">Machine Learning Interview - Practice Questions from Experts</a>
+~[](https://public-files.gumroad.com/3qq1sh241mqphbnj3ph054ealsjv)
  
 ## Coding
 
