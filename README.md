@@ -1,6 +1,6 @@
 ### Hi there! 👋, I am Mehdi,
 ----
-I am an AI research scientist | Full-stack AI/Software engineer | Co-founder of <a href="https://www.getcastly.com/">Castly</a> | AI Consultant. I help companies and startups operationalize (build and deploy) LLM applications.
+I am an AI research scientist | Full-stack AI/Software engineer | Co-founder of <a href="https://www.getcastly.com/">Castly</a>. I help companies and startups operationalize (build and deploy) LLM applications.
 
 - I work on Generative AI (LLMs), Machine Learning, Natural Language Processing (NLP) and end-to-end machine learning system design.
 - I build AI products, and help companies operationalize LLMs including prototyping, building and deploying AI apps into production.  
