@@ -12,6 +12,8 @@ I am an AI research scientist | Full-stack AI/Software engineer. I help companie
 - <a href="https://angelinamagr.gumroad.com/l/practical-approach-to-RAG-systems"> A Practical Approach to Retrieval Augemented Generation (RAG) Systems </a>
 <img src="https://public-files.gumroad.com/x2au2qvdj6ge0i1dns2ru4o0umbo" width="200" />
 
+- A free online version of the book <a href="https://github.com/mallahyari/rag-ebook">here</a>
+
 - <a href="https://angelinamagr.gumroad.com/l/MLinterview-practice-questions">Machine Learning Interview - Practice Questions from Experts</a>
   <img src="https://public-files.gumroad.com/3qq1sh241mqphbnj3ph054ealsjv" width="200" />
  
