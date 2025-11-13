@@ -2,7 +2,7 @@
 ----
 I am an AI researcher | Full-stack AI/Software engineer | AI Consultant. I help companies and startups operationalize (build and deploy) LLM applications.
 
-I am currently working on <a href="https://flashvu.com/">FlashVU</a>, <a href="https://papermess.co">Papermess</a> and <a href="https://clientiq.tech">ClientIQ</a>.
+I am currently working on <a href="https://getbrandpulse.com/">BrandPulse</a>, <a href="https://flashvu.com/">FlashVU</a>, <a href="https://papermess.co">Papermess</a> and <a href="https://clientiq.tech">ClientIQ</a>.
 
 - I work on Generative AI (LLMs), Machine Learning, Natural Language Processing (NLP), Speech Recognition, and end-to-end machine learning system design.
 - I build AI products, and help companies operationalize LLMs including prototyping, building and deploying AI apps into production.  
