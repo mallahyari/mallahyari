@@ -14,8 +14,10 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
   - [Oncilla AI](https://oncillaai.com/)
 
 ## 💼 Professional Experience
-
-- Co-founder / Chief AI Engineer, TransformAI Studio (Oct 2023 – Present)
+- Co-founder, OncillaAI (Sep 2025 - Present)
+- Co-founder, BrandPulse (Sep 2025 - Present)
+- Co-founder, FlashVU (Sep 2025 - Present)
+- Co-founder / Chief AI Engineer, TransformAI Studio (Oct 2023 – Sep 2025)
 - Staff Machine Learning Engineer / AI Researcher, Underdog Fantasy (Mar 2023 – Oct 2023)
 - Research Scientist / Tech Lead, Workhuman (Mar 2022 – Mar 2023)
 - Lead Data Scientist, Wells Fargo (Jun 2020 – Mar 2022)
@@ -53,8 +55,7 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 ## 🔗 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/mehdiallahyari/)
-- [Twitter](https://twitter.com/MehdiYArik)
-- [Email](mailto:mehdi@allahyari.com)
-- [Website](https://getbrandpulse.com/)
-- [Blog](https://mallahyari.github.io/visdecode/)
+- [Twitter](https://twitter.com/MehdiYArix)
+- [Email](mailto:mehdi@oncillaai.com)
+- [Website](https://oncillaai.com/)
 - [Newsletter](https://mlnotes.substack.com/)
