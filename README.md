@@ -39,9 +39,8 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 ## 🚀 Recent Projects & Products
 
 - **BrandPulse** – AI-powered brand intelligence and market analysis platform
-- **FlashVU** – Intelligent data visualization and analytics tool
-- **Oncilla AI** – Advanced AI solutions for enterprise applications
-
+- **FlashVU** – AI Data Analyst for marketting agencies
+- **Oncilla AI** – Advanced AI solutions for local businesses
 ## 📚 Books
 
 - [A Practical Approach to Retrieval Augmented Generation (RAG) Systems](https://www.anulearning.com/practical-approach-to-rag-systems/) – Comprehensive guide to RAG implementation and best practices
