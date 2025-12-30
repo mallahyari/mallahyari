@@ -14,10 +14,11 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
   - [Oncilla AI](https://oncillaai.com/)
 
 ## 💼 Professional Experience
-- Co-founder, OncillaAI (Sep 2025 - Present)
-- Co-founder, BrandPulse (Sep 2025 - Present)
-- Co-founder, FlashVU (Sep 2025 - Present)
-- Co-founder / Chief AI Engineer, TransformAI Studio (Oct 2023 – Sep 2025)
+- Co-founder / CTO, OncillaAI (Sep 2025 - Present)
+- Co-founder / CTO, BrandPulse (Sep 2025 - Present)
+- Co-founder / CTO, FlashVU (Sep 2025 - Present)
+- Co-founder / CTO, OscrAI (Oct 2023 – Sep 2025)
+- Co-founder / CTO, TransformAI Studio (Oct 2023 – Sep 2025)
 - Staff Machine Learning Engineer / AI Researcher, Underdog Fantasy (Mar 2023 – Oct 2023)
 - Research Scientist / Tech Lead, Workhuman (Mar 2022 – Mar 2023)
 - Lead Data Scientist, Wells Fargo (Jun 2020 – Mar 2022)
