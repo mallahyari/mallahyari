@@ -9,6 +9,7 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 - AI researcher and full-stack engineer specializing in end-to-end AI/ML systems
 - Focused on operationalizing LLMs, RAG systems, and AI agents in production
 - Currently working on:
+  - [FrontaHealth](https://fronta.health)
   - [BrandPulse](https://getbrandpulse.com/)
   - [FlashVU](https://flashvu.com/)
   - [Oncilla AI](https://oncillaai.com/)
