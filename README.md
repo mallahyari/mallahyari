@@ -37,6 +37,7 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 
 ## 🚀 Recent Projects & Products
 
+- **FrontaHealth** – AI-powered platform that automates insurance verification, patient support, and appointment scheduling - so your small practice can operate like a world-class clinic, without the overhead
 - **BrandPulse** – AI-powered brand intelligence and market analysis platform
 - **FlashVU** – AI Data Analyst for marketting agencies
 - **Oncilla AI** – Advanced AI solutions for local businesses
