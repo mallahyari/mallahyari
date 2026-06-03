@@ -43,8 +43,7 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 - **Oncilla AI** – Advanced AI solutions for local businesses
 ## 📚 Books
 
-- [A Practical Approach to Retrieval Augmented Generation (RAG) Systems](https://www.anulearning.com/practical-approach-to-rag-systems/) – Comprehensive guide to RAG implementation and best practices
-- [Machine Learning Interview – Practice Questions from Experts](https://www.anulearning.com/ml-interview-practice-questions/) – Practice questions and tips for ML interviews
+- [A Practical Approach to Retrieval Augmented Generation (RAG) Systems](https://github.com/mallahyari/rag-ebook) – Comprehensive guide to RAG implementation and best practices
 
 ## 📝 Content & Resources
 
