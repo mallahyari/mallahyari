@@ -48,7 +48,7 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 ## 📝 Content & Resources
 
 - **Newsletter:** [MLnotes](https://mlnotes.substack.com/) – Bite-sized content on ML/AI careers, GenAI, agents, RAG, and industry use cases
-- **Blog:** [Visdecode](https://mallahyari.github.io/visdecode/) – Data visualization, ML concepts, and applied AI
+- **Visualization Blog (old):** [Visdecode](https://mallahyari.github.io/visdecode/) – Data visualization, ML concepts, and applied AI
 - **YouTube:** [AI / ML / LLM Content](https://www.youtube.com/@MehdiAllahyari) – Tutorials and insights on Generative AI, LLMs, and RAG systems
 
 ## 🔗 Let's Connect!
