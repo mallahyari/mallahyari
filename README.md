@@ -27,9 +27,9 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 
 - **Languages:** Python, JavaScript, SQL, Java, SPARQL
 - **NLP & AI:** Large Language Models, RAG, PyTorch, TensorFlow, HuggingFace, SpaCy, scikit-learn, NLTK
-- **Frameworks & Tooling:** LlamaIndex, LangChain, Haystack, Qdrant, Vector Databases, Argilla, Cleanlab
+- **Frameworks & Tooling:** Google ADK, PydanticAI, OpenAI agent SDK, LlamaIndex, LangGraph, Haystack, Qdrant, Vector databases, Data-centric NLP frameworks (Argilla, Cleanlab)
 - **Web & Semantic Web:** React, D3.js, Redux, Git, RDF/S, Knowledge Graphs, Virtuoso
-- **Databases:** PostgreSQL, MySQL, BigQuery, MongoDB
+- **Databases:** PostgreSQL, MySQL, BigQuery, Snowflake, DataBricks, MongoDB
 
 ## 🎓 Education
 
