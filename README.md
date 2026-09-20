@@ -12,7 +12,6 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
   - [Overline](https://overline.live)
   - [FrontaHealth](https://fronta.health)
   - [BrandPulse](https://getbrandpulse.com/)
-  - [FlashVU](https://flashvu.com/)
   - [Oncilla AI](https://oncillaai.com/)
 
 ## 💼 Professional Experience
