@@ -10,9 +10,10 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 - Focused on operationalizing LLMs, RAG systems, and AI agents in production
 - Currently working on:
   - [Overline](https://overline.live)
+  - [Oncilla AI](https://oncillaai.com/)
   - [FrontaHealth](https://fronta.health)
   - [BrandPulse](https://getbrandpulse.com/)
-  - [Oncilla AI](https://oncillaai.com/)
+
 
 ## 💼 Professional Experience
 - Tech Lead / Senior Forward Deployed Engineer (July 2025 - Present)
