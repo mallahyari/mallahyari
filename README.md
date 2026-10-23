@@ -9,6 +9,7 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 - AI researcher and full-stack engineer specializing in end-to-end AI/ML systems
 - Focused on operationalizing LLMs, RAG systems, and AI agents in production
 - Currently working on:
+  - [Utterfinch](https://utterfinch.com)
   - [Overline](https://overline.live)
   - [Oncilla AI](https://oncillaai.com/)
   - [FrontaHealth](https://fronta.health)
@@ -38,6 +39,7 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 - PhD in Computer Science, University of Georgia (Aug 2010 – Jun 2016)
 
 ## 🚀 Recent Projects & Products
+- **Utterfinch** - Write Persian, by speaking. Hold a key, talk, and clean Persian appears in any app. Your English words stay English.
 - **Overline** - Real-time AI captions and live translation directly on top of any browser video — no subtitles needed, no tab switching
 - **FrontaHealth** – AI-powered platform that automates insurance verification, patient support, and appointment scheduling - so your small practice can operate like a world-class clinic, without the overhead
 - **BrandPulse** – AI-powered brand intelligence and market analysis platform
