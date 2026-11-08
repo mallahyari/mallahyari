@@ -29,11 +29,14 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, JavaScript, SQL, Java, SPARQL
-- **NLP & AI:** Large Language Models, RAG, PyTorch, TensorFlow, HuggingFace, SpaCy, scikit-learn, NLTK
-- **Frameworks & Tooling:** Google ADK, PydanticAI, OpenAI agent SDK, LlamaIndex, LangGraph, Haystack, Qdrant, Vector databases, Data-centric NLP frameworks (Argilla, Cleanlab)
-- **Web & Semantic Web:** React, D3.js, Redux, Git, RDF/S, Knowledge Graphs, Virtuoso
-- **Databases:** PostgreSQL, MySQL, BigQuery, Snowflake, DataBricks, MongoDB
+- **Programming Languages:** Python, JavaScript, SQL, Java, SPARQL
+- **LLMs & Generative AI:** Large Language Models (LLMs), LLM Fine-Tuning, PEFT/LoRA, RAG, HuggingFace, PyTorch, TensorFlow
+- **Speech & Audio AI:** Speech-to-Text (STT/ASR), Text-to-Speech (TTS), Speech-to-Speech (S2S), Speech Model Training & Fine-Tuning, Voice Cloning, Speech Processing
+- **AI Agents & Systems:** AI Agents, Multi-Agent Systems, Agentic Workflows, Production-Ready AI Systems, Google ADK, PydanticAI, OpenAI Agents SDK, LangGraph
+- **AI Evaluation & Quality:** LLM Evaluation, Agent Evaluation, AI Observability, Benchmarking, Data-Centric AI, Argilla, Cleanlab
+- **AI Frameworks & Tooling:** LlamaIndex, Haystack, scikit-learn, spaCy, NLTK, Qdrant, Vector Databases
+- **Web & Semantic Technologies:** React, D3.js, Redux, RDF/S, Knowledge Graphs, Virtuoso
+- **Databases & Data Platforms:** PostgreSQL, MySQL, BigQuery, Snowflake, Databricks, MongoDB
 
 ## 🎓 Education
 
