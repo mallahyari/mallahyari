@@ -44,11 +44,12 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 
 ## 🚀 Recent Projects & Products
 - **Utterfinch** - Write Persian, by speaking. Hold a key, talk, and clean Persian appears in any app. Your English words stay English.
+- **Oncilla AI** – Building multilingual speech and language AI solutions, specializing in underserved languages such as Persian, Arabic, and Spanish
 - **Overline** - Real-time AI captions and live translation directly on top of any browser video — no subtitles needed, no tab switching
 - **FrontaHealth** – AI-powered platform that automates insurance verification, patient support, and appointment scheduling - so your small practice can operate like a world-class clinic, without the overhead
 - **BrandPulse** – AI-powered brand intelligence and market analysis platform
 - **FlashVU** – AI Data Analyst for marketting agencies
-- **Oncilla AI** – Advanced AI solutions for local businesses
+
 ## 📚 Books
 
 - [A Practical Approach to Retrieval Augmented Generation (RAG) Systems](https://github.com/mallahyari/rag-ebook) – Comprehensive guide to RAG implementation and best practices
