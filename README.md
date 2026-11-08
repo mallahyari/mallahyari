@@ -17,7 +17,8 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 
 
 ## 💼 Professional Experience
-- Tech Lead / Senior Forward Deployed Engineer (July 2025 - Present)
+- Principal Engineer, FICO (July 2026 - Present)
+- Tech Lead / Senior Forward Deployed Engineer (July 2025 - July 2026)
 - Co-founder / CTO, OncillaAI (Sep 2025 - Present)
 - Co-founder / CTO, OscrAI (Oct 2023 – Sep 2025)
 - Co-founder / CTO, TransformAI Studio (Oct 2023 – Sep 2025)
