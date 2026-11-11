@@ -1,6 +1,6 @@
 # Mehdi Allahyari
 
-**Chief AI Scientist | Full-Stack AI/Software Engineer | AI Researcher | AI Consultant**
+**Principal AI/Software Engineer | AI Researcher | AI Consultant**
 
 Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with over 15 years of experience in machine learning and natural language processing. I help companies and startups operationalize AI/LLM applications, from prototyping to production deployment.
 
