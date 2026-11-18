@@ -10,8 +10,9 @@ Hello! 👋 I'm Mehdi, an AI researcher and full-stack software engineer with ov
 - Focused on operationalizing LLMs, RAG systems, and AI agents in production
 - Currently working on:
   - [Utterfinch](https://utterfinch.com)
-  - [Overline](https://overline.live)
   - [Oncilla AI](https://oncillaai.com/)
+  - [Overline](https://overline.live)
+  
   
 
 
